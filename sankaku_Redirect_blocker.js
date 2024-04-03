@@ -7,20 +7,6 @@
 // @match        https://chan.sankakucomplex.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sankakucomplex.com
 // @grant        none
-// @run-at       document-start
-// ==/UserScript==
-// ==UserScript==
-// @name         Sankaku redirect prevention
-// @namespace    http://tampermonkey.net/
-// @version      0.2
-// @description  obsfucated to make WinterXIX have to work overtime.
-// @author       Me
-// @match        https://chan.sankakucomplex.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=sankakucomplex.com
-// @grant        none
-
-// ==/UserScript==
-
 (function() {
     'use strict';
 
