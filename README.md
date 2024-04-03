@@ -1,7 +1,10 @@
 ## Updates
 Ver 0.2 [Sankaku-pop-up-blocker.js](Sankaku-pop-up-blocker.js) No longer shows the pop-up for a brief second
 
-Ver 0.2 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) Fixed the bug were auto-paging stopped working
+Ver 0.3 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) Fixed a minor bug
+
+ver 0.4 [sankaku_Redirect_blocker.js](sankaku_Redirect_blocker.js) Fixed a bug where redirect blocker would stop image scrolling functionality
+
 
 
 # chan Sankaku adblocker
