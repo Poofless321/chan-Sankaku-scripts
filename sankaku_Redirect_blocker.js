@@ -9,10 +9,22 @@
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
+// ==UserScript==
+// @name         Sankaku redirect prevention
+// @namespace    http://tampermonkey.net/
+// @version      0.2
+// @description  obsfucated to make WinterXIX have to work overtime.
+// @author       Me
+// @match        https://chan.sankakucomplex.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=sankakucomplex.com
+// @grant        none
+
+// ==/UserScript==
 
 (function() {
     'use strict';
 
+    let test = "mockingBird"
     function s(e, t) {
         var n = (0, r.Qo)(t);
         var i;
@@ -70,6 +82,10 @@
             n.props["*"] = true;
         }
     }
+    function ut(){
+        return window
+    }
+
     function o(e, t, k) {
         var o_ = arguments[1];
         for (var n in e) {
@@ -100,11 +116,12 @@
             i(null, t);
         }
     }
+    window.Post.fallenAngel = test;
 
     window.setTimeout = function(e, t) {
             var i = arguments[0];
             var a = arguments[1];
-        if (a === 6e3) {
+        if (a === k) {
             return;
         }
         return k.apply(this, arguments);
@@ -123,3 +140,4 @@
     }
 
 })();
+
