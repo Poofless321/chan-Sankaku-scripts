@@ -24,10 +24,10 @@ so far, I have two scripts, both updated to function without any bugs, but if yo
 
 **[Redirect blocker prevents this:](sankaku_Redirect_blocker.js)**
 
-![opera_UCLESGic3P](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/7c96126a-5807-473c-85ac-48555cc09dee)
+![Image]([URL](https://imgur.com/a/sm57hjK))
 
 
 **[Pop-up blocker prevents this:](Sankaku-pop-up-blocker.js)**
 
-![opera_YJ95IuW5gB](https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/463ed8ef-6494-4681-ab43-46069210a04c)
+![Image]([https://github.com/Poofless321/chan-Sankaku-adblock/assets/29880230/463ed8ef-6494-4681-ab43-46069210a04c](https://imgur.com/a/jN32sN1))
 
