@@ -24,10 +24,10 @@ so far, I have two scripts, both updated to function without any bugs, but if yo
 
 **[Redirect blocker prevents this:](sankaku_Redirect_blocker.js)**
 
-![alt text](https://imgur.com/a/sm57hjK "Optional title")
+![alt text](https://imgur.com/a/sm57hjK.png "Optional title")
 
 
 **[Pop-up blocker prevents this:](Sankaku-pop-up-blocker.js)**
 
 
-![alt text](https://imgur.com/a/jN32sN1 "Optional title")
+![alt text](https://imgur.com/a/jN32sN1.png "Optional title")
